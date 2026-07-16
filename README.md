@@ -20,6 +20,8 @@ The pipeline consists of three stages:
 ## Overview
 
 The overall framework is:
+
+```text
         Text Dataset
              |
              |
@@ -48,3 +50,4 @@ The overall framework is:
              |
              v
     Trigger Prediction
+```
