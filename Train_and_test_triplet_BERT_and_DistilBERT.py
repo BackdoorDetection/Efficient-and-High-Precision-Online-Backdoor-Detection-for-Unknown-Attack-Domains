@@ -1,5 +1,5 @@
 """
-Train CNN-based backdoor detector.
+Train CNN-based backdoor detector for BERT and DistilBERT.
 
 This script trains a CNN discriminator on extracted
 hidden representations from language models.
